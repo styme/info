@@ -19,3 +19,5 @@ Breve descrição da abertura
 ### Contabilidade da empresa
 
 ### Investimento inicial
+
+### Impostos
