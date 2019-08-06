@@ -9,15 +9,19 @@ Abertura de empresa ME é necessária para faturamento superior acima de R$6.750
 - CPF autenticado
 - Número do IRPF ou Título de Eleitor (se não declarou)
 
-## Investimento inicial
+## Custos
+
+- R$800,00 para abertura
 
 ## Impostos 
 
 - 6% de imposto no Simples Nacional
-- INSS variável, sendo R$199 para salário mínimo (opcional)
+- INSS variável, sendo R$199,00 para salário mínimo (opcional)
 
 ## Prazos para regularização
 
 ## Contabilidade da empresa
 
 # Abertura de empresa MEI
+
+http://www.portaldoempreendedor.gov.br/temas/quero-ser/formalize-se/formalize-se-1
