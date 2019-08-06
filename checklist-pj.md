@@ -22,10 +22,14 @@ Abertura de Microempresa é necessária para faturamento superior acima de **R$ 
 
 ## Contabilidade da empresa
 
-# Abertura de Microempresa Individual
+# Abertura de Microempresa Individual (MEI)
 
-http://www.portaldoempreendedor.gov.br/temas/quero-ser/formalize-se/formalize-se-1
+Acesse o (portal do empreendedor)[http://www.portaldoempreendedor.gov.br/temas/quero-ser/formalize-se/formalize-se-1].
 
 ## Impostos
 
 - **R$ 54,90** mensais
+
+## Prazos para regularização
+
+## Contabilidade da empresa
