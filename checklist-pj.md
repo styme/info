@@ -1,23 +1,23 @@
-## Abertura de empresa
+# Abertura de empresa ME
 
-Breve descrição da abertura
+Abertura de empresa ME é necessária para faturamento superior acima de R$6.750,00 mensais.
 
-### Checklist de documentos
+## Checklist de documentos
 
-- Doc 1
-- Doc 2
-- Doc 3
+- Espelho do IPTU
+- RG autenticado
+- CPF autenticado
+- Número do IRPF ou Título de Eleitor (se não declarou)
 
-### Passo a Passo
+## Investimento inicial
 
-- Passo 1
-- Passo 2
-- Passo 3
+## Impostos 
 
-### Prazos para regularização
+- 6% de imposto no Simples Nacional
+- INSS variável, sendo R$199 para salário mínimo (opcional)
 
-### Contabilidade da empresa
+## Prazos para regularização
 
-### Investimento inicial
+## Contabilidade da empresa
 
-### Impostos
+# Abertura de empresa MEI
