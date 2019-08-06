@@ -24,7 +24,7 @@ Abertura de Microempresa é necessária para faturamento superior acima de **R$ 
 
 # Abertura de Microempresa Individual (MEI)
 
-Acesse o (portal do empreendedor)[http://www.portaldoempreendedor.gov.br/temas/quero-ser/formalize-se/formalize-se-1].
+Acesse o [portal do empreendedor](http://www.portaldoempreendedor.gov.br/temas/quero-ser/formalize-se/formalize-se-1).
 
 ## Impostos
 
