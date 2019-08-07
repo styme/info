@@ -62,4 +62,6 @@ A partir de **R$ 89,00** mensais
 
 A Styme realiza a remuneração mediante apresentação mensal de nota fiscal referente aos serviços prestados.
 
-Para realizar a emissão da nota fiscal em São Paulo, é necessário o cadastro no [site da NFe](https://nfe.prefeitura.sp.gov.br/login.aspx). No último dia do mês, fazer login no sistema e emitir uma nota fiscal para a empresa **MYA SOLUÇÕES DIGITAIS LTDA - ME**, registrada no CNPJ **20.337.274/0001-88**.
+Para realizar a emissão da nota fiscal em São Paulo, é necessário o cadastro no [site da NFe](https://nfe.prefeitura.sp.gov.br/login.aspx). 
+
+No último dia do mês, fazer login no sistema e emitir uma nota fiscal para a empresa **MYA SOLUÇÕES DIGITAIS LTDA - ME**, registrada no CNPJ **20.337.274/0001-88**.
