@@ -43,6 +43,7 @@ Abertura de Microempresa é necessária para faturamento superior ACIMA DE **R$ 
 ## Prazos para regularização
 
 - O CNPJ fica disponível em **5 dias úteis** (em São Paulo)
+- Entrada no SIMPLES pode ser feita em até **30 dias** corridos
 
 ## Contabilidade da empresa
 
@@ -56,3 +57,11 @@ Carla Celene 11 9xxxx-5199 (Já utilizado por outros colaboradores)
 - [Alternativa 2](https://www.contabilizei.com.br/)
 
 A partir de **R$ 89,00** mensais
+
+# Emissão de notas fiscais
+
+A Styme realiza a remuneração mediante apresentação mensal de nota fiscal referente aos serviços prestados.
+
+Para realizar a emissão da nota fiscal em São Paulo, é necessário o cadastro no [site da NFe](https://nfe.prefeitura.sp.gov.br/login.aspx). No último dia do mês, fazer login no sistema e emitir uma nota fiscal para a empresa MYA SOLUÇÕES DIGITAIS LTDA - ME, registrada no CNPJ 20.337.274/0001-88.
+
+https://nfe.prefeitura.sp.gov.br/login.aspx
