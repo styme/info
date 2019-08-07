@@ -2,6 +2,13 @@
 
 Abertura de Microempresa é necessária para faturamento superior ATÉ **R$ 81.000,00** anuais (ou **R$ 6.750,00** mensais).
 
+## Checklist de documentos (Dados pessoais)
+
+- Número de RG
+- Número de título de eleitor ou Declaração de Imposto de Renda
+- Dados de contato
+- Endereço residencial
+
 ## Passo a passo
 
 - Acesse o [portal do empreendedor](http://www.portaldoempreendedor.gov.br/temas/quero-ser/formalize-se/formalize-se-1)
