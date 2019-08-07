@@ -42,9 +42,14 @@ Abertura de Microempresa é necessária para faturamento superior ACIMA DE **R$ 
 
 ## Prazos para regularização
 
+- O CNPJ fica disponível em **5 dias úteis** (em São Paulo)
+
 ## Contabilidade da empresa
 
 É necessária a contratação de um contador para emissão das declarações obrigatórias.
 
-- **Alternativa 1:** Carla Celene 11 9••••-5199
+- **Alternativa 1:**
+Carla Celene 11 9xxxx-5199 (Já utilizado por outros colaboradores)
+**R$ 180,00** mensais
 - [Alternativa 2](https://www.contabilizei.com.br/)
+A partir de **R$ 89,00** mensais
