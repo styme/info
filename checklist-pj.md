@@ -17,7 +17,9 @@ Abertura de Microempresa Individual pode ser feita para faturamento ABAIXO DE **
 
 ## Impostos
 
-- Imposto fixo de **R$ 54,90** mensais
+- Imposto fixo de **R$ 54,90** mensais (DAS)
+
+[Pagamento da guia do DAS](http://www8.receita.fazenda.gov.br/SimplesNacional/Aplicacoes/ATSPO/pgmei.app/Identificacao)
 
 ## Prazos para regularização
 
