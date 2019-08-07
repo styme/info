@@ -44,7 +44,7 @@ Abertura de Microempresa é necessária para faturamento ACIMA DE **R$ 81.000,00
 
 ## Impostos 
 
-- **6%** de imposto no Simples Nacional
+- **6%** do faturamento (Simples Nacional)
 - INSS variável, sendo **R$ 199,00** para salário mínimo (opcional)
 
 ## Prazos para regularização
