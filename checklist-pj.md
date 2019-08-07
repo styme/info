@@ -5,7 +5,7 @@ Abertura de Microempresa Individual pode ser feita para faturamento ABAIXO DE **
 ## Checklist de documentos (Dados pessoais)
 
 - Número de RG
-- Número de título de eleitor ou Declaração de Imposto de Renda
+- Número do IRPF ou Título de Eleitor (se não declarou)
 - Dados de contato
 - Endereço residencial
 
