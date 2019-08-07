@@ -1,6 +1,6 @@
 # Abertura de Microempresa Individual (MEI)
 
-Abertura de Microempresa é necessária para faturamento superior ATÉ **R$ 81.000,00** anuais (ou **R$ 6.750,00** mensais).
+Abertura de Microempresa Individual pode ser feita para faturamento ABAIXO DE **R$ 81.000,00** anuais (ou **R$ 6.750,00** mensais).
 
 ## Checklist de documentos (Dados pessoais)
 
@@ -29,7 +29,7 @@ Não é necessária.
 
 # Abertura de Microempresa (ME)
 
-Abertura de Microempresa é necessária para faturamento superior ACIMA DE **R$ 81.000,00** anuais (ou **R$ 6.750,00** mensais).
+Abertura de Microempresa é necessária para faturamento ACIMA DE **R$ 81.000,00** anuais (ou **R$ 6.750,00** mensais).
 
 ## Checklist de documentos
 
